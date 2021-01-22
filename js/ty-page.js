@@ -25,7 +25,7 @@ for (let i = 0; i < acc.length; i++) {
 
 
 
-//Testimonial Slideshow
+//Testimonial Slideshow <!-- lianne edit -->
 $(document).ready(function(){
 
 $('.testimonialSlider').slick({
